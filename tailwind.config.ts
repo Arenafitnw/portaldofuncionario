@@ -63,9 +63,10 @@ export default {
           foreground: 'hsl(var(--card-foreground))'
         },
         arena: {
-          orange: '#f97316',
+          orange: '#ec4d0e',
           gray: '#64748b',
           lightgray: '#f1f5f9',
+          black: '#000000'
         }
       },
       borderRadius: {
