@@ -93,3 +93,10 @@
   @apply bg-white/80 backdrop-blur-md border border-white/20 shadow-lg;
 }
 
+header {
+  background-color: #000000;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
